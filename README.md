@@ -52,7 +52,7 @@ Develop a cloud-native fraud detection system using Microsoft Azure services tha
 ---
 
 ## Eraser Diagram Link
-For a clean, visual diagram: [View Diagram]([https://app.eraser.io/workspace/DrXykOy5AnvTnMbA3jZz](https://app.eraser.io/workspace/4O7lUSUo9gE69XuozuZd?origin=share))
+For a clean, visual diagram: [View Diagram]((https://app.eraser.io/workspace/4O7lUSUo9gE69XuozuZd?origin=share))
 
 ---
 
