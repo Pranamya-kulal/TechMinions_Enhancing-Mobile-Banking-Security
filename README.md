@@ -41,18 +41,6 @@ Develop a cloud-native fraud detection system using Microsoft Azure services tha
 
 ---
 
-## Diagram (Simplified Architecture)
-```mermaid
-graph TD
-    A[User Transaction] --> B[Azure App Service]
-    B --> C[Azure Functions]
-    C --> D[Azure Cosmos DB]
-    C --> E[Azure Machine Learning Model]
-    E --> F[Fraud / Safe Decision]
-    B --> G[Azure Active Directory (Authentication)]
-    F --> H[API Response to User]
-```
-
 ---
 
 ## Impact
